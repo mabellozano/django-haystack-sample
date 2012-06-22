@@ -12,7 +12,6 @@ Python ElasticSearch client to integrate with SearchBox.io.
 ## Local Setup
 
 Sample application requires a PostgreSQL database up and change 'URL': os.environ['SEARCHBOX_URL'], to 'URL': 'http://localhost:9200',
-
 at settings.py pointing to your running ElasticSearch instance.
 
 ## Heroku Deployment
